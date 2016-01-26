@@ -26,12 +26,12 @@
     "url": "https://github.com/martinj/node-apidoc-markdown/issues"
   },
   "dependencies": {
-    "ejs": "^1.0.0",
-    "handlebars": "^2.0.0-alpha.2",
-    "lodash": "^2.4.1",
-    "mocha": "^1.18.2",
+    "ejs": "^2.4.1",
+    "handlebars": "^4.0.5",
+    "lodash": "^4.0.1",
+    "mocha": "^2.4.1",
     "optimist": "^0.6.1",
-    "semver": "^2.3.0",
-    "should": "^3.3.1"
+    "semver": "^5.1.0",
+    "should": "^8.2.0"
   }
 }
