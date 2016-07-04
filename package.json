@@ -28,7 +28,7 @@
   "dependencies": {
     "ejs": "^1.0.0",
     "handlebars": "^2.0.0-alpha.2",
-    "lodash": "^2.4.1",
+    "lodash": "^4.1.0",
     "mocha": "^1.18.2",
     "optimist": "^0.6.1",
     "semver": "^2.3.0",
